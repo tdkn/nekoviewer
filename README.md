@@ -15,4 +15,4 @@ twitteroauth/config.php に COUNSUMER_KEY や ACCESS_TOKEN を設定します。
 Link
 ====
 
-neko.tedokon.com
+http://neko.tedokon.com/
